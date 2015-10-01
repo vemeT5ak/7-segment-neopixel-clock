@@ -1,4 +1,4 @@
-"//Original code by David Hopkins (https://hackaday.io/Hopo28)" 
+//Original code by David Hopkins (https://hackaday.io/Hopo28)
 
 #include "FastLED.h"
 #include <Time.h>  
